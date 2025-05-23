@@ -9,10 +9,3 @@ import './css/footer.css';
 import './js/video.js';
 import './js/slideshow.js';
 import './js/caracteristicas.js';
-
-// vite.config.js
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-  base: '/PublicidadPage/', // 👈 importante: nombre del repo entre slashes
-})
